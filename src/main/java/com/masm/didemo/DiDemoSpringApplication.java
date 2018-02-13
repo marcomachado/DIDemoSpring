@@ -16,5 +16,4 @@ public class DiDemoSpringApplication {
 		
 		myController.hello();
 	}
-	
 }

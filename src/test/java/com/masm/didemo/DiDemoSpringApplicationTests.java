@@ -12,7 +12,5 @@ public class DiDemoSpringApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
-	
 }
  
